@@ -1,3 +1,4 @@
+package t2;
 public class testclass {
     private int num;
     private String name;

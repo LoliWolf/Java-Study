@@ -1,3 +1,4 @@
+package t2;
 public class testclass23Demo {
     public static void main(String[] args) {
         testclass2 t=new testclass2();
