@@ -4,6 +4,9 @@ import javax.swing.*;
 import java.awt.*;
 import java.util.Vector;
 
+/**
+ * @author 张宸玮
+ */
 public class demo10 {
     public static void main(String[] args) {
         Frame frame=new Frame();
